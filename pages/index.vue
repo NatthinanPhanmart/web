@@ -7,7 +7,7 @@
   <div class="w-fit ml-2 lg:w-full">
     <Button/>
   </div>
-   <div class="flex mt-10 ml-10 relative w-[50] text-center lg:">
+   <div class="flex mt-10  relative w-[50] text-center lg:">
     <h1 class="absolute  text-xl font-bold lg:text-3xl lg:mt-[120px] lg:ml-[320px] ">
       สินค้าประมูล
     </h1>
